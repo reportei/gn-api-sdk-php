@@ -1,6 +1,6 @@
 {
-  "name": "gerencianet/gerencianet-sdk-php",
-  "description": "GN API SDK PHP",
+  "name": "reportei/gerencianet-sdk-php-fork",
+  "description": "GN API SDK PHP (Guzzle 7)",
   "version": "2.4.1",
   "require": {
     "guzzlehttp/guzzle": "^7.0.0",
