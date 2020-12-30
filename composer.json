@@ -3,7 +3,7 @@
   "description": "GN API SDK PHP",
   "version": "2.4.1",
   "require": {
-    "guzzlehttp/guzzle": "^6.0.0",
+    "guzzlehttp/guzzle": "^7.0.0",
     "php": ">=5.5.0"
   },
   "require-dev": {
